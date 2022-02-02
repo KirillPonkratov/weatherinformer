@@ -22,7 +22,7 @@
         <hibernate.version>5.4.2.Final</hibernate.version>
 
         <!-- Postgres -->
-        <postgres.version>42.2.8</postgres.version>
+        <postgres.version>42.2.25</postgres.version>
 
         <!-- Servlet -->
         <servlet.version>4.0.1</servlet.version>
